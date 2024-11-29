@@ -4,4 +4,4 @@
 // Inherit the parent event
 event_inherited();
 
-room_goto(rm_game); //cahnge to sigle player game after finishing that part
+room_goto(rm_singleplayer_menu); //change to sigle player game after finishing that part
